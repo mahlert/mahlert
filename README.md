@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Computer Science student at Oregon State University
+
+- 🔭 I am currently working on project for fantasy basketball that uses dynamic programming and data mining algorithms to find the basketball players with the highest productivity
+
+- 🌱 I’m currently learning Python libraries for Data Science: Pandas, Scikit, StatsModels
+
+- 👯 I’m looking to collaborate on interesting data projects
+
 <!--
 **mahlert/mahlert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
