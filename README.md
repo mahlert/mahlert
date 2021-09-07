@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 Computer Science student at Oregon State University
 
