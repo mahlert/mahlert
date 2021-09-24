@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working on project for fantasy basketball that uses dynamic programming and data mining algorithms to find NBA players with highest statistical efficiency
 
-- 🌱 I’m currently learning Python libraries for Data Science and Machine Learning: PyTorch, Pandas, Scikit, and StatsModels
+- 🌱 I’m currently learning Python libraries for Data Science and Machine Learning: PyTorch and Pandas
 
 - 👯 I’m looking to collaborate on interesting data projects
 
