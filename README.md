@@ -1,12 +1,8 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
-- 🔭 I am currently working on a fantasy basketball project to rank players based on their historical data and compared to other players in the league.
+- 🔭 I am currently working on a fantasy basketball project to determine the winner of the NBA MVP for 2022
 
 - 🌱 I’m currently learning Python libraries for Data Science and Machine Learning: PyTorch and Pandas
-
-- 👯 I’m looking to collaborate on interesting data projects
-
-
 
 **Tools:**
 
